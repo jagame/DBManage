@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 24 16:10:22 CEST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-014f-ffb0-d3d3-000007138210 
+on database directory D:\Jagame\Documentos\NetBeansProjects\default with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/D:/Jagame/Documentos/NetBeansProjects/JavaDB-Example01/src/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=D:\Jagame\Documentos\NetBeansProjects\DBmanage
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
